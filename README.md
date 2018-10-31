@@ -24,18 +24,15 @@ Durante o primeiro período, a equipe constava com o acadêmico Alexandre Iagla 
 ### PROJETOS DESENVOLVIDOS
 
 **2018/1**
-
 **Robô Sumô**
 
 **Finalidade:** para competir nas categorias "Um Contra Um" e "Todos Contra Todos" no evento intutulado **III Beradeiro _Robot Challenger_** ocorrido durante a _Campus Party_ Rondônia 2018.
 
 **2018/2**
-
-**Sistema de monitoramento e resfriamento de temperatura de placas solares. **
+**Sistema de monitoramento e resfriamento de temperatura de placas solares.**
 
 **Finalidade:** projeto _start up_ da disciplina de Linguagem de Programação.
 
 ### NOSSA PÁGINA NO FACEBOOK
 
 [Equipe Ctrl Aut.](https://www.facebook.com/CtrlAut/).
-

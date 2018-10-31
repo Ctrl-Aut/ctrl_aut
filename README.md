@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## EQUIPE CTRL AUT.
 
-You can use the [editor on GitHub](https://github.com/Ctrl-Aut/ctrl_aut.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Atualmente composta pelos acadêmicos:
+**1.** Fabrício Lopes Coelho Júnior;
+**2.** Juan Victor Basitt dos Santos;
+**3.** Larissa Samara Paula de França;
+**4.** Mariane de Barros Andrade.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2ª turma do curso de Engenharia de Controle e Automação do Instituto Federal de Educação, Ciência e Tecnologia de Rondônia (IFRO).
+Ingresso: 2018/1
+Atualmente frequentam o 2º período.
 
-### Markdown
+### ORIGEM DO NOME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Durante o primeiro período, a equipe constava com o acadêmico Alexandre Iagla Gravatá, que com muita criatividade sugeriu o nome **Ctrl Aut.** como referência ao nome do curso de engenharia, "Controle e Automação", mas utilizando do trocadilho de informática "Ctrl+Alt". Assim, Ctrl representa Controle e Aut. representa Automação.
 
-```markdown
-Syntax highlighted code block
+### PROJETOS DESENVOLVIDOS
 
-# Header 1
-## Header 2
-### Header 3
+**2018/1**
+**Robô Sumô**
+**Finalidade:** para competir nas categorias "Um Contra Um" e "Todos Contra Todos" no evento intutulado **III Beradeiro _Robot Challenger_** ocorrido durante a _Campus Party_ Rondônia 2018.
 
-- Bulleted
-- List
+**2018/2**
+**Sistema de monitoramento e resfriamento de temperatura de placas solares. **
+**Finalidade:** projeto _start up_ da disciplina de Linguagem de Programação.
 
-1. Numbered
-2. List
+### NOSSA PÁGINA NO FACEBOOK
 
-**Bold** and _Italic_ and `Code` text
+[Equipe Ctrl Aut.](https://www.facebook.com/CtrlAut/).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ctrl-Aut/ctrl_aut.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
